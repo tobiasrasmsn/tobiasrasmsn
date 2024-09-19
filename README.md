@@ -2,18 +2,6 @@
 
 ###
 
-<p align="left">Full stack developer from Norway. I really enjoy developing with Next.JS.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning C++<br>🎯 Goals: My own web dev agency<br>🎲 Fun fact: I love all music besides country.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
